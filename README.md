@@ -1,4 +1,4 @@
-# Front-End Vue.js , use UnitTest
+# Front-End Vue.js , UnitTest
 
 ## Build Setup
 
